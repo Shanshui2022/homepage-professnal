@@ -5,6 +5,8 @@
 </p>
 <h1 align="center">
   Gatsby Starter Portfolio: Cara
+
+  Gatsby的好看的主页
 </h1>
 
 <p align="center">
@@ -24,17 +26,28 @@
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-cara).
 
+有趣和丰富多彩的一页投资组合具有视差效果和动画。使用Gatsby主题[`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-cara).
+
 [**Demo Website**](https://cara.lekoarts.de)
+
+[**测试站点**](https://cara.lekoarts.de)
 
 Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=cara&utm_medium=Starter).
 
+此外，请务必查看其他[免费和开源的主题](https://themes.lekoarts.de)和我的[个人网站](https://www.lekoarts.de?utm_source=cara&utm_medium=Starter)
+
 ## ✨ Features
+## ✨ 特色
 
 - Theme UI-based theming
+- 基于主题UI的主题化
 - react-spring Parallax Effect
+- 反作用回弹视差效果
 - CSS Animations on Shapes
+- 形状上的CSS动画
 
 ## ⏱️ Quick Start
+## ⏱️ 快速开始
 
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
