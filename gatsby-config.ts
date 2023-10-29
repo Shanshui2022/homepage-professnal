@@ -8,13 +8,13 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitle: `Minecraft_山水`,
+    siteTitleAlt: `Minecraft_山水的主页`,
+    siteHeadline: `Minecraft_山水的主页`,
+    siteUrl: `https://www.shanshui.site/`,
+    siteDescription: `似乎是更好的主页？`,
     siteImage: `/banner.jpg`,
-    siteLanguage: `en`,
+    siteLanguage: `zh`,
     author: `@lekoarts_de`,
   },
   trailingSlash: `always`,
